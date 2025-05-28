@@ -5,6 +5,7 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
   <img src="https://media1.tenor.com/m/cL67S084K4oAAAAC/the-world-is-yours.gif"/>
 </div>
 ---
+
 ## 🤖 Linguagens e Tecnologias
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -20,4 +21,5 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45"/>
 </div>
 ---
+
 ###  “Todos os caminhos levam a morte, perca-se.”
