@@ -1,9 +1,8 @@
 Olá, eu sou o Cauan Faveri
-
 Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em Desenvolvimento de Sistemas**.  
 
 <div align="center">
-  <img src="https://media.tenor.com/RAqDzuu09vAAAAAi/al-pacino-scarface.gif"/>
+  <img src="https://media1.tenor.com/m/cL67S084K4oAAAAC/the-world-is-yours.gif"/>
 </div>
 
 ---
@@ -18,11 +17,4 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
 </div>
 
 ---
-
-## 📊 Estatísticas GitHub (opcional)
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
-</div>
 ###  “Todos os caminhos levam a morte, perca-se.”
