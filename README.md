@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/727c1818-dec2-4590-b05c-44a9dba2ef07)# Olá, eu sou o Cauan Faveri
+Olá, eu sou o Cauan Faveri
 
 Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em Desenvolvimento de Sistemas**.  
 
