@@ -2,7 +2,7 @@ Olá, eu sou o Cauan Faveri
 Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em Desenvolvimento de Sistemas**.  
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/cL67S084K4oAAAAC/the-world-is-yours.gif"/>
+  <img src="https://media1.tenor.com/m/1GJsojvnk90AAAAC/hi.gif"/>
 </div>
 ---
 
