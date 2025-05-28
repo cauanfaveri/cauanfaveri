@@ -4,7 +4,6 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
 <div align="center">
   <img src="https://media1.tenor.com/m/cL67S084K4oAAAAC/the-world-is-yours.gif"/>
 </div>
----
 
 ## 🤖 Linguagens e Tecnologias
 <div align="center">
@@ -20,7 +19,6 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45"/>
 </div>
----
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cauanfaveri&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
