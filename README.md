@@ -21,5 +21,14 @@ Tenho 17 anos, atualmente sou **aprendiz TECH** e estou cursando o **técnico em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="45"/>
 </div>
 ---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<br> 
+<div align="center" style="margin: 0 auto; width: fit-content;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ2dmN4eGNyYXZzYTlhNmtlemRpYXJubnR5MTRodWlvOWRwYno0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" />
 
 ###  “Todos os caminhos levam a morte, perca-se.”
